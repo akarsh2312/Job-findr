@@ -42,7 +42,7 @@ JobFindr is a comprehensive job portal application designed to connect job seeke
 - **Mongoose**: Provides an elegant MongoDB object modeling tool.  
 - **Redux** (optional): Manages state efficiently across the application.  
 
-## Goals of HireMint  
+## Goals of JobFindr 
 - Simplify the job application process for job seekers.  
 - Provide a robust platform for recruiters to find the right talent.  
 - Ensure data security and privacy for all users.  
